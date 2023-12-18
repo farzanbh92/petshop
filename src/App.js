@@ -1,5 +1,5 @@
 import './App.css';
-import { BrowserRouter , Routes , Route } from 'react-router-dom';
+import { HashRouter , Routes , Route } from 'react-router-dom';
 import Layout from './components/Layout/Layout';
 import Home from './components/Home/Home';
 import PetMart from './components/PetMart/PetMart';
@@ -14,7 +14,7 @@ import PetGrooming from './components/Foods/PetGrooming';
 function App() {
   return (
     <div className="App">
-     <BrowserRouter>
+     <HashRouter>
      <Routes>
       <Route path='/' element={<Layout/>}> 
       <Route index element={<Home/>}/>
@@ -28,7 +28,7 @@ function App() {
       <Route path='*' element={<NoPage/>}/>
       </Route>
      </Routes>
-     </BrowserRouter>
+     </HashRouter>
     </div>
   );
 }
