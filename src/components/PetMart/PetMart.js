@@ -12,11 +12,11 @@ const PetMart = () => {
     return (
         <>
         
-        <div className='md:mx-96 mx-20 md:mt-20 mt-8 md:mb-16 mb-8'>
+        <div className='md:mx-96 mx-4 md:mt-20 mt-8 md:mb-16 mb-8'>
             <SearchBar/>
         </div>
 
-        <div className='my-12 md:mx-40 mx-8 text-lg font-mono font-bold border-2 border-gray-400 shadow-md p-4 text-justify text-gray-500 rounded-2xl'>When it comes to pets, we’re obsessed. 
+        <div className='my-12 md:mx-40 mx-8 md:text-lg text-base font-mono font-bold border-2 border-gray-400 shadow-md p-4 text-justify text-gray-500 rounded-2xl'>When it comes to pets, we’re obsessed. 
         <span className='text-orange-500'>There’s nothing we wouldn’t do for our pets</span>, because there’s nothing they wouldn’t do for us. Our associates are devoted to ensuring that pets’ lives are happy and healthy. 
          So naturally, we’re devoted to making sure that PetSmart is a happy and healthy place to work, too.</div>
 
