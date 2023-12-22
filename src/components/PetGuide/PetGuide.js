@@ -73,7 +73,7 @@ const adImage = {backgroundImage : `url(${guidead})`};
        <div className='border-2 border-gray-200 rounded-lg shadow-md block md:hidden mx-16 my-8 pb-8'>
        <h1 className='text-xl font-bold mt-8 text-gray-700'>Pet Guide Overview</h1>  
 
-<ul className='mt-4 cursor-pointer text-gray-800 px-12'>
+<ul className='mt-4 cursor-pointer text-gray-700 px-12'>
 
  <li className='bg-yellow-200 hover:bg-green-300 rounded-lg text-center mt-4'>Pet Trainging Guides</li>
  <li className='bg-yellow-200 hover:bg-green-300 rounded-lg text-center mt-4'>Behavior Training</li>
