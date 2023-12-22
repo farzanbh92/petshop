@@ -12,7 +12,7 @@ const PetMart = () => {
     return (
         <>
         
-        <div className='md:mx-96 mx-20 md:mt-28 mt-4 md:mb-16 mb-8'>
+        <div className='md:mx-96 mx-20 md:mt-20 mt-8 md:mb-16 mb-8'>
             <SearchBar/>
         </div>
 

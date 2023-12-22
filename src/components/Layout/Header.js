@@ -1,13 +1,15 @@
 import React from 'react';
-import logo from '../../assets/images/logo.gif';
 import { NavLink } from 'react-router-dom';
+import { MdOutlinePets } from "react-icons/md";
 
 const Header = () => {
     return (
         <header className='md:h-[72px] w-full bg-gradient-to-b from-[#FF9500] to-[#FFAD00] pb-4'>
           <div className='flex'>
-          <div  className='hidden md:block md:ml-48'><img src={logo} alt='logo'/></div>
-          <nav className='mt-2 md:mt-10 font-semibold mx-auto md:ml-0 '>
+          <div className='text-6xl md:block hidden mx-40 mt-2'>
+            <MdOutlinePets/>
+          </div>
+          <nav className='mt-2 md:mt-10 font-semibold mx-auto  '>
           <ul className='block md:inline-flex'>
             <li className='py-1 w-28 hover:text-white md:border-r border-orange-400'><NavLink to='/'>Home</NavLink></li> 
             <li className='py-1 w-28 hover:text-white md:border-r border-orange-400'><NavLink to='petmart'>Pet Mart</NavLink></li>
