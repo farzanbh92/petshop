@@ -20,13 +20,13 @@ const adImage = {backgroundImage : `url(${guidead})`};
 
            <ul className='mt-12 cursor-pointer text-gray-500 px-12'>
 
-            <li className='bg-yellow-200 hover:bg-green-300 rounded-lg text-center mt-4'>Pet Trainging Guides</li>
-            <li className='bg-yellow-200 hover:bg-green-300 rounded-lg text-center mt-4'>Behavior Training</li>
+            <li className='bg-yellow-200 hover:bg-green-300 rounded-lg text-center mt-4'>Pet Traingings</li>
+            <li className='bg-yellow-200 hover:bg-green-300 rounded-lg text-center mt-4'>Pet Behaviors</li>
             <li className='bg-yellow-200 hover:bg-green-300 rounded-lg text-center mt-4'>Pet Recipes</li>
             <li className='bg-yellow-200 hover:bg-green-300 rounded-lg text-center mt-4'>Pet Foods</li>
             <li className='bg-yellow-200 hover:bg-green-300 rounded-lg text-center mt-4'>Cosplay Pets</li>
             <li className='bg-yellow-200 hover:bg-green-300 rounded-lg text-center mt-4'>Shopping Guides</li>
-            <li className='bg-yellow-200 hover:bg-green-300 rounded-lg text-center mt-4'>Pregnancy and Nursing Pets</li>
+            <li className='bg-yellow-200 hover:bg-green-300 rounded-lg text-center mt-4'>Nursing Pets</li>
             <li className='bg-yellow-200 hover:bg-green-300 rounded-lg text-center mt-4'>Medications</li>
             <li className='bg-yellow-200 hover:bg-green-300 rounded-lg text-center mt-4'>Excercise</li>
             <li className='bg-yellow-200 hover:bg-green-300 rounded-lg text-center mt-4'>Diet</li>
@@ -38,7 +38,7 @@ const adImage = {backgroundImage : `url(${guidead})`};
             </div>
         </div>
         <div className='border-2 border-orange-400 order-3'>
-        <h1 className='font-bold text-xl bg-orange-400 text-white py-1'>Pet Training Guides</h1>
+        <h1 className='font-bold text-xl bg-orange-400 text-white py-1'>Pet Training </h1>
         <p className='text-justify p-2 text-sm md:text-base'>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
             Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
         </div>
@@ -75,13 +75,13 @@ const adImage = {backgroundImage : `url(${guidead})`};
 
 <ul className='mt-4 cursor-pointer text-gray-700 px-12'>
 
- <li className='bg-yellow-200 hover:bg-green-300 rounded-lg text-center mt-4'>Pet Trainging Guides</li>
- <li className='bg-yellow-200 hover:bg-green-300 rounded-lg text-center mt-4'>Behavior Training</li>
+ <li className='bg-yellow-200 hover:bg-green-300 rounded-lg text-center mt-4'>Pet Traingings</li>
+ <li className='bg-yellow-200 hover:bg-green-300 rounded-lg text-center mt-4'>Pet Behaviors</li>
  <li className='bg-yellow-200 hover:bg-green-300 rounded-lg text-center mt-4'>Pet Recipes</li>
  <li className='bg-yellow-200 hover:bg-green-300 rounded-lg text-center mt-4'>Pet Foods</li>
  <li className='bg-yellow-200 hover:bg-green-300 rounded-lg text-center mt-4'>Cosplay Pets</li>
  <li className='bg-yellow-200 hover:bg-green-300 rounded-lg text-center mt-4'>Shopping Guides</li>
- <li className='bg-yellow-200 hover:bg-green-300 rounded-lg text-center mt-4'>Pregnancy and Nursing Pets</li>
+ <li className='bg-yellow-200 hover:bg-green-300 rounded-lg text-center mt-4'>Nursing Pets</li>
  <li className='bg-yellow-200 hover:bg-green-300 rounded-lg text-center mt-4'>Medications</li>
  <li className='bg-yellow-200 hover:bg-green-300 rounded-lg text-center mt-4'>Excercise</li>
  <li className='bg-yellow-200 hover:bg-green-300 rounded-lg text-center mt-4'>Diet</li>

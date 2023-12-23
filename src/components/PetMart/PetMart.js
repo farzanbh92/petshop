@@ -228,7 +228,7 @@ const PetMart = () => {
            </div>
           
         </div>
-        <div className='font-extrabold text-4xl text-green-600 hover:text-orange-400 cursor-pointer md:hidden block my-8'>30% discount</div>
+        <div className='font-extrabold text-4xl bg-yellow-300 w-fit mx-auto px-4 py-2 rounded-lg text-green-600 hover:text-orange-400 cursor-pointer md:hidden block my-8'>30% discount</div>
         </>
     );
 };

@@ -67,7 +67,7 @@ const backgroundStyle = {backgroundImage : `url(${backgroundImg})`};
 
          <div className='bg-yellow-300 shadow-lg shadow-gray-300 px-4 py-2 rounded-lg'>
           <section className='font-bold text-lg mb-2'>Discounted Items</section>
-          <ul className='grid grid-cols-3 gap-2'>
+          <ul className='grid md:grid-cols-3 grid-cols-1 gap-2'>
             <li className='bg-yellow-400 py-4 rounded-lg cursor-pointer hover:bg-gray-300'>Pet Accessories</li>
             <li className='bg-yellow-400 py-4 rounded-lg cursor-pointer hover:bg-gray-300'>Bath Essentials</li>
             <li className='bg-yellow-400 py-4 rounded-lg cursor-pointer hover:bg-gray-300'>Pet Foods</li>
