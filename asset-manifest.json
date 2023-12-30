@@ -1,29 +1,24 @@
 {
   "files": {
-    "main.css": "/petshop/static/css/main.c6d1c18d.css",
-    "main.js": "/petshop/static/js/main.c3fae798.js",
+    "main.css": "/petshop/static/css/main.d7546949.css",
+    "main.js": "/petshop/static/js/main.69651100.js",
     "static/js/787.02f457df.chunk.js": "/petshop/static/js/787.02f457df.chunk.js",
     "static/media/dog.jpg": "/petshop/static/media/dog.3bc94add438d383a6f5e.jpg",
-    "static/media/discount.jpg": "/petshop/static/media/discount.2aa8d1e6e5450f576cd3.jpg",
+    "static/media/pets.jpg": "/petshop/static/media/pets.70a1617a674c0f5a6390.jpg",
     "static/media/background2.jpg": "/petshop/static/media/background2.32909e69f1f850bc12c4.jpg",
     "static/media/petguide.jpg": "/petshop/static/media/petguide.4ad38da7a95d85099b49.jpg",
-    "static/media/cat3.jpg": "/petshop/static/media/cat3.1bb051212e30ba65911c.jpg",
-    "static/media/bird-in-cage.jpg": "/petshop/static/media/bird-in-cage.53b5aa1da21c93134676.jpg",
-    "static/media/bird3.jpg": "/petshop/static/media/bird3.7b305052c939bce8f511.jpg",
-    "static/media/dog2.jpg": "/petshop/static/media/dog2.a746304600f9b4f2b064.jpg",
     "static/media/pet-lover.jpg": "/petshop/static/media/pet-lover.edc6795b255e4d7cf9b0.jpg",
     "static/media/pet-lover2.jpg": "/petshop/static/media/pet-lover2.637f7bf19696052ebb9f.jpg",
     "static/media/friendly-pets.jpg": "/petshop/static/media/friendly-pets.5a100d906e03589d1b22.jpg",
     "static/media/pet-grooming.jpg": "/petshop/static/media/pet-grooming.aa927d201574794901cc.jpg",
-    "static/media/puppy3.jpg": "/petshop/static/media/puppy3.3fa17273835ec9c87ed8.jpg",
     "static/media/good-food.jpg": "/petshop/static/media/good-food.e46a260391036aa7890a.jpg",
     "index.html": "/petshop/index.html",
-    "main.c6d1c18d.css.map": "/petshop/static/css/main.c6d1c18d.css.map",
-    "main.c3fae798.js.map": "/petshop/static/js/main.c3fae798.js.map",
+    "main.d7546949.css.map": "/petshop/static/css/main.d7546949.css.map",
+    "main.69651100.js.map": "/petshop/static/js/main.69651100.js.map",
     "787.02f457df.chunk.js.map": "/petshop/static/js/787.02f457df.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c6d1c18d.css",
-    "static/js/main.c3fae798.js"
+    "static/css/main.d7546949.css",
+    "static/js/main.69651100.js"
   ]
 }
