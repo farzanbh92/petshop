@@ -7,9 +7,9 @@ const Header = () => {
         <header className='md:h-[72px] w-full bg-gradient-to-b from-[#FF9500] to-[#FFAD00] pb-4'>
           <div className='flex'>
           
-          <div className='hidden md:block'><Logo/></div>
+          <div className='hidden md:block md:basis-1/3'><Logo/></div>
 
-          <nav className='mt-2 md:mt-10 font-semibold mx-auto'>
+          <nav className='mt-2 md:mt-10 font-semibold mx-auto md:basis-2/3'>
           <ul className='block md:inline-flex'>
             <li className='py-1 w-28 hover:text-white md:border-r border-orange-400'><NavLink to='/'>Home</NavLink></li> 
             <li className='py-1 w-28 hover:text-white md:border-r border-orange-400'><NavLink to='petmart'>Pet Mart</NavLink></li>
